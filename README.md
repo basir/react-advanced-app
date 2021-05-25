@@ -11,3 +11,9 @@ Learn React From Beginner to Advanced.
     3. create new counter function component
     4. use state
     5. add start number input box 
+ 2. Use Effect Hook
+    1. What is effect hook
+    2. create user info component
+    3. fetch data from api
+    4. show data
+    5. clear api
