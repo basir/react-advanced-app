@@ -18,3 +18,23 @@ code {
   background-color: #c0c0f0;
   border-radius: 20px;
 }
+.header {
+  padding: 10px;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+.light {
+  background-color: #e0e0e0;
+  color: #101010;
+}
+.dark {
+  background-color: #101010;
+  color: #e0e0e0;
+}
+.content {
+  width: 500px;
+  padding: 50px;
+  margin: 50px auto;
+}
