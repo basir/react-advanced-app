@@ -6,13 +6,10 @@ import UserInfo from './UserInfo';
 import NewUserInfo from './NewUserInfo';
 import Layout from './Layout';
 import MainContent from './MainContent';
+import UserList from './UserList';
 
 function App() {
-  return (
-    <Layout>
-      <MainContent />
-    </Layout>
-  );
+  return <UserList />;
 }
 
 export default App;
