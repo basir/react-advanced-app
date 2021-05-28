@@ -17,3 +17,10 @@ Learn React From Beginner to Advanced.
     3. fetch data from api
     4. show data
     5. clear api
+ 3. React Context
+ 4. Use Reducer
+ 5. React Router
+    1. Create Single-Page Application
+    2. Define pages
+    3. link to pages
+    4. useParams and useHistory

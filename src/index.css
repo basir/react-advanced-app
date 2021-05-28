@@ -48,3 +48,21 @@ code {
 th {
   text-align: left;
 }
+
+.pages {
+  width: 800px;
+  background-color: #f0f0ff;
+  margin: 50px auto;
+}
+
+.page-header {
+  padding: 10px;
+  background-color: #e0e0e0;
+}
+.page-content {
+  padding: 10px;
+  background-color: #f0f0f0;
+}
+.active {
+  font-weight: bold;
+}
